@@ -85,7 +85,7 @@
   <a href="https://linkedin.com/in/manenejunior" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/sm-juni01" target="_blank">
+  <a href="[https://instagram.com/sm-juni01](https://www.instagram.com/sm_juni01/)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:juniormanene@gmail.com">
